@@ -1,0 +1,1919 @@
+[
+    {
+        "department": "FMS",
+        "eventName": "Ad-Mad Show",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "2 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "4 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "SB 904"
+        ],
+        "coordinatorNames": ["viral.tolia@marwadieducation.edu.in",
+        "alpeshkumar.ganatra@marwadieducation.edu.in",
+        "vijay.das@marwadieducation.edu.in",
+        "bhakti.tanna@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "1"
+    },
+    {
+        "department": "FOS-MICRO",
+        "eventName": "Agar Art",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "4:30 PM",
+            "11:00 AM"
+        ],
+        "location": [
+            "MA 515",
+            "MA 518",
+            "MB 516",
+            "MB 517"
+        ],
+        "coordinatorNames": ["Dr. Aditya Saran"],
+        "type": "Tech",
+        "id": "2"
+    },
+    {
+        "department": "FOHS-FOP",
+        "eventName": "Anatomical Body Parts Painting",
+        "date": [
+            "13-03-2024",
+            "14-03-2024"
+        ],
+        "startTime": [
+            "1:30 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "3:00 PM",
+            "11:00 AM"
+        ],
+        "location": [
+            "MB602",
+            "MB603"
+        ],
+        "coordinatorNames": ["Shruti Kothari (93269 74250)",
+        "Bhavin Gauswami (7861864257)"],
+        "type": "Tech",
+        "id": "3"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Beer Game",
+        "date": [
+            "15-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "11:30 AM"
+        ],
+        "location": [
+            "SB 710"
+        ],
+        "coordinatorNames": ["Prof. Snehal Bhatt - snehal.bhatt@marwadieducation.edu.in",
+
+        "Prof. Amar Gandhi - amar.gandhi@marwadieducation.edu.in",
+        
+        "Prof. Bhavyarajsinh Jhala - bhavyarajsinh.jhala@marwadieducation.edu.in"
+        
+        ],
+        "type": "Tech",
+        "id": "4"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Best Vendor",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "2 PM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "SB 812"
+        ],
+        "coordinatorNames": ["Dr. Vinod M Lakhwani - 9327164218",
+        "Dr. Srijib Jha - 9933399277",
+        "Prof. Husain Travadi - 9377247379",
+        "Prof. Vaishali Savjani - 9879708512"],
+        "type": "Tech",
+        "id": "5"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Bid to Win",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM",
+            "12:30 PM"
+        ],
+        "endTime": [
+            "10:30 AM",
+            "4:30 PM"
+        ],
+        "location": [
+            "SB 408",
+            "SB 409",
+            "SB 410",
+            "SB 411",
+            "SB 403",
+            "FDP Room"
+        ],
+        "coordinatorNames": ["bhumika.achhnani@marwadieducation.edu.in", "prosenjit.ghosh@marwadieducation.edu.in", "amarin.amareliya@marwadieducation.edu.in", "riddhib.joshi@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "6"
+    },
+    {
+        "department": "FOCA",
+        "eventName": "Blind Coding",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "2:30 PM"
+        ],
+        "location": [
+            "MB 403",
+            "MC 4L11",
+            "MC 4L12",
+            "MB 412"
+        ],
+        "coordinatorNames": ["Prof. Meghna Bhatt", "Prof. Kinjal Raval"],
+        "type": "Tech",
+        "id": "7"
+    },
+    {
+        "department": "FOCA",
+        "eventName": "Brain's Strom",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Seminar hall"
+        ],
+        "coordinatorNames": ["Prof. Amit Gohel", "Prof. Jitesh Solanki"],
+        "type": "Tech",
+        "id": "8"
+    },
+    {
+        "department": "FOET-CIVIL",
+        "eventName": "Bridge Designer",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "12 PM"
+        ],
+        "endTime": [
+            "4 PM"
+        ],
+        "location": [
+            "MB 013"
+        ],
+        "coordinatorNames": ["Pruthvirajsinh Jethwa: 9313678543", "Reshi Sardhara: 8238435009", "Aayush Pobaru: 9909945912"],
+        "type": "Tech",
+        "id": "9"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Build-N-Lead",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "1:30 PM"
+        ],
+        "location": [
+            "Satyarthi Building Outdoor"
+        ],
+        "coordinatorNames": ["PROF (DR) BIJAY BHUJABAL", "DR MUKESH KUMAR GOEL", "MS SUJATA", "MS Surosree Nath"],
+        "id": "10",
+        "type":"Tech"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Business Plan",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM",
+            "1:30 PM"
+        ],
+        "endTime": [
+            "12:30 AM",
+            "3:00 PM"
+        ],
+        "location": [
+            "SB 509"
+        ],
+        "coordinatorNames": ["Dr Ruchi Priya Khilar", "Dr. Divya Mathur", "Ms Megha Joshi", "Dr Pooja Shah"],
+        "type": "Tech",
+        "id": "11"
+    },
+    {
+        "department": "FOET-ICT",
+        "eventName": "Byte Hunt: IoT Trail",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9 AM",
+            "2 PM"
+        ],
+        "endTime": [
+            "12 PM",
+            "5 PM"
+        ],
+        "location": [
+            "MA 107",
+            "MA 108"
+        ],
+        "coordinatorNames": ["Vijay Dubey", "Vishal Chavda"],
+        "type": "Tech",
+        "id": "12"
+    },
+    {
+        "department": "FOET-CHEM, FODS-CHEM",
+        "eventName": "Chem-O-Car",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Outdoor In front of Tagor Building"
+        ],
+        "coordinatorNames": ["Mr. Kedar Joshi (FODS)", "Dr. Sanjay Kumar(FOET)"],
+        "type": "Tech",
+        "id": "13"
+    },
+    {
+        "department": "FOET-ELE",
+        "eventName": "Circuit Saviour",
+        "date": [
+            "13-03-24",
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "2:30 PM",
+            "10 AM"
+        ],
+        "endTime": [
+            "1:30 PM",
+            "4:30 PM",
+            "12 PM"
+        ],
+        "location": [
+            "MB 112 (A)"
+        ],
+        "coordinatorNames": [
+            "vatsalkumar.patel@marwadieducation.edu.in",
+            "atul.kunapara@marwadieducation.edu.in",
+            "b.anilkumar@marwadieducation.edu.in",
+            "ronak.doshi@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "14"
+    },
+    {
+        "department": "FODS-CE",
+        "eventName": "Code Storm",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "12 PM",
+            "10 AM",
+            "10 AM"
+        ],
+        "endTime": [
+            "3 PM",
+            "1 PM",
+            "11 PM"
+        ],
+        "location": [
+            "MB 513"
+        ],
+        "coordinatorNames": ["smit.thacker@marwadieducation.edu.in",
+        "foram.chovatiya@marwadieducation.edu.in",
+        "dhavalkumar.pambhar@marwadieducation.edu.in",
+        "anjali.joshi@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "15"
+    },
+    {
+        "department": "FOET-ICT",
+        "eventName": "Codequest: Troubleshooting Tiger",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9 AM",
+            "2:30 PM"
+        ],
+        "endTime": [
+            "12 PM",
+            "4:30 PM"
+        ],
+        "location": [
+            "MA 115",
+            "MA 102"
+        ],
+        "coordinatorNames": ["Prof. Nishith Kotak (ICT Department, MA157, nishith.kotak@marwadieducation.edu.in)"],
+        "type": "Tech",
+        "id": "16"
+    },
+    {
+        "department": "FODS-ICT",
+        "eventName": "CODE RUN",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "3 PM",
+            "1:30 PM"
+        ],
+        "endTime": [
+            "5 PM",
+            "3:30 PM"
+        ],
+        "location": [
+            "MB 306"
+        ],
+        "coordinatorNames": ["vishalsinh.gohil@marwadieducation.edu.in",
+        "bansiben.chavada@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "17"
+    },
+    {
+        "department": "FOET-ICT",
+        "eventName": "Coding Relay Race",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "12 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "2 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "MA 115",
+            "MA 102"
+        ],
+        "coordinatorNames": ["Prof. Nishith Kotak (ICT Department, MA157, nishith.kotak@marwadieducation.edu.in)",
+        "Prof. D. D. Zala (ICT Department, MA151, dharmendrasinh.zala@marwadieducation.edu.in)"],
+        "type": "Tech",
+        "id": "18"
+    },
+    {
+        "department": "FOET-CE-Bio",
+        "eventName": "Codon Bingo",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "1:30 PM"
+        ],
+        "location": [
+            "MC 214"
+        ],
+        "coordinatorNames": ["Kavya Patel (92200194010)",
+        "Sunil Sihag (92301794015)",
+        "Khushi Kansara (92301794019)",
+        "Nicy Gajera (92301794011)",
+        "Shreya Popat (92301794006)",
+        "Rana Pratap Purudu (92301794016)"],
+        "type": "Tech",
+        "id": "19"
+    },
+    {
+        "department": "FOET-ICT",
+        "eventName": "Data Dice Decathlon",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "2:30 PM"
+        ],
+        "endTime": [
+            "1:30 PM",
+            "4:30 PM"
+        ],
+        "location": [
+            "MA 112",
+            "MA 104"
+        ],
+        "coordinatorNames": ["Prof. Bhumi Kotak (ICT Department, MA159, bhumi.kotak@marwadieducation.edu.in)",
+        "Ms. Sneha Khetiya (ICT Department, MA159, sneha.khetiya@marwadieducation.edu.in)"],
+        "type": "Tech",
+        "id": "20"
+    },
+    {
+        "department": "FOET-MECH",
+        "eventName": "Escape Room",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Workshop"
+        ],
+        "coordinatorNames": ["Prof Mukhtar Sama"],
+        "type": "Tech",
+        "id": "21"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Extempore",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "2:30 PM"
+        ],
+        "location": [
+            "SB 903"
+        ],
+        "coordinatorNames": ["Viral Tolia <viral.tolia@marwadieducation.edu.in>",
+        "Alpeshkumar Ganatra <alpeshkumar.ganatra@marwadieducation.edu.in>",
+        "Vijay Das <vijay.das@marwadieducation.edu.in>",
+        "bhakti.tanna@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "22"
+    },
+    {
+        "department": "FOS-Agri",
+        "eventName": "Farm Treasure Hunt",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "10 AM"
+        ],
+        "endTime": [
+            "12 PM"
+        ],
+        "location": [
+            "Agriculture Farm"
+        ],
+        "coordinatorNames": ["Dr. Vatsal Ranpariya (vatsal.ranpariya@marwadieducation.edu.in)",
+        "Mrs. Bansi Nimavat (bansi.nimavat@marwadieducation.edu.in)"],
+        "type": "Tech",
+        "id": "23"
+    },
+    {
+        "department": "FOET-CE-AI",
+        "eventName": "GoDrone 2K24",
+        "date": [
+            "14-03-2023"
+        ],
+        "startTime": [
+            "10:00 AM"
+        ],
+        "endTime": [
+            "03:00 PM"
+        ],
+        "location": [
+            "Football Ground, Marwadi University"
+        ],
+        "coordinatorNames": ["Dr. Akshay Panchasaraiyani",
+        "Dr. Sanket Badiyani",
+        "Prof. Akshay Ranpariya - 7990127305"],
+        "type": "Tech",
+        "id": "24"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Ideas Galore",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "MC 501"
+        ],
+        "coordinatorNames": ["Dr Ramesh Safare, Phone: 9701 665038",
+        "Dr Sagar Gupta, Phone: 90283 66487"],
+        "type": "Tech",
+        "id": "25"
+    },
+    {
+        "department": "FOET-IT",
+        "eventName": "Maths Cross Puzzle",
+        "date": [
+            "14-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "11 AM",
+            "3 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "12:30 AM",
+            "4:30 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "MB 204",
+            "MB 205",
+            "MB 207",
+            "MB 208"
+        ],
+        "coordinatorNames": ["sagar.khirsariya@marwadieducation.edu.in",
+        "komala.gondi@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "26"
+    },
+    {
+        "department": "FOET-CHEM",
+        "eventName": "Out of the box",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "2 PM"
+        ],
+        "endTime": [
+            "3 PM"
+        ],
+        "location": [
+            "MA 304"
+        ],
+        "coordinatorNames": ["Avanish kumar",
+        "Dharmesh sur"],
+        "type": "Tech",
+        "id": "27"
+    },
+    {
+        "department": "FOHS-FOPH",
+        "eventName": "Pharma KBC",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "11:30 AM"
+        ],
+        "location": [
+            "Seminar hall"
+        ],
+        "coordinatorNames": ["Mrs. Hiral Kaushik Kapuriya"],
+        "type": "Tech",
+        "id": "28"
+    },
+    {
+        "department": "FOHS-FOPH",
+        "eventName": "Pharma One Minute Game",
+        "date": [
+            "13-03-2024",
+            "14-03-2024",
+            "15-03-2024"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "10:00 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "4:00 PM",
+            "4:00 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "Beside to Hostel A"
+        ],
+        "coordinatorNames": ["Ms. Shivangee Bharatbhai Pithadiya"],
+        "type": "Tech",
+        "id": "29"
+    },
+    {
+        "department": "FOHS-FOP",
+        "eventName": "Physio Spot",
+        "date": [
+            "15-03-2024"
+        ],
+        "startTime": [
+            "10 AM"
+        ],
+        "endTime": [
+            "11:30 AM"
+        ],
+        "location": [
+            "MB 610"
+        ],
+        "coordinatorNames": ["Vrunda - 9898494956",
+        "Prince – 7359353033",
+        "Diya - 9737869979"],
+        "type": "Tech",
+        "id": "30"
+    },
+    {
+        "department": "FOA",
+        "eventName": "Poetry Writing",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "1 PM"
+        ],
+        "endTime": [
+            "4 PM"
+        ],
+        "location": [
+            "MA 308"
+        ],
+        "coordinatorNames": ["Dr. Nishita Jataniya"],
+        "type": "Tech",
+        "id": "31"
+    },
+    {
+        "department": "FOET-CIVIL",
+        "eventName": "Popsicle Bridge",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "12 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "4 PM",
+            "10:30 AM"
+        ],
+        "location": [
+            "MB 002",
+            "B wing Fronty Foyer"
+        ],
+        "coordinatorNames": ["Prof Jay Pandya",
+        "Prof Pratik Patel",
+        "Kishan Savaliya"],
+        "type": "Tech",
+        "id": "32"
+    },
+    {
+        "department": "FOS-PHYS",
+        "eventName": "Presentation Prestige",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "12:30 PM"
+        ],
+        "location": [
+            "MA 507"
+        ],
+        "coordinatorNames": ["Dr. Yogesh Jani",
+        "Dr. Prakash Kanjariya"],
+        "type": "Tech",
+        "id": "33"
+    },
+    {
+        "department": "FOET-CHEM",
+        "eventName": "Quizlet - The Questionnaire",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "11 AM"
+        ],
+        "endTime": [
+            "12 PM"
+        ],
+        "location": [
+            "MB 202"
+        ],
+        "coordinatorNames": ["Dr. Avanish Kumar",
+        "Dr. Dharmesh Sur"],
+        "type": "Tech",
+        "id": "34"
+    },
+    {
+        "department": "FOL",
+        "eventName": "Reviving Court Room Drama",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "1 PM"
+        ],
+        "endTime": [
+            "3 PM"
+        ],
+        "location": [
+            "Moot Court"
+        ],
+        "coordinatorNames": ["Mrs. Akanksha Ranjan, Assistant Professor, Faculty of Law"],
+        "type": "Tech",
+        "id": "35"
+    },
+    {
+        "department": "FOET-CIVIL",
+        "eventName": "Road Sign And Marking",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "9:30 AM",
+            "10:30 AM"
+        ],
+        "endTime": [
+            "12:30 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "MB 007"
+        ],
+        "coordinatorNames": ["Prof. Jay Kirit Kalaria"],
+        "type": "Tech",
+        "id": "36"
+    },
+    {
+        "department": "FOET-CE-AI",
+        "eventName": "Robocomp 3.0",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "10:00 AM"
+        ],
+        "endTime": [
+            "03:00 PM"
+        ],
+        "location": [
+            "Football Ground"
+        ],
+        "coordinatorNames": ["Prof. Akshay Ranpariya - 7990127305",
+        "Prof. Akshay Panchasara"],
+        "type": "Tech",
+        "id": "37"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "Scavenger Hunt",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "1:30 PM",
+            "3:30 PM"
+        ],
+        "endTime": [
+            "1:00 PM",
+            "3:30 PM",
+            "5:00 PM"
+        ],
+        "location": [
+            "Lab 9 (MC 314)"
+        ],
+        "coordinatorNames": ["Prof. Urvi Bhatt (urvi.bhatt@marwadieducation.edu.in)",
+        "Prof. Pratikkumar Chauhan (pratikkumar.chauhan@marwadieducation.edu.in)",
+        "Prof. Vaibhav Matalia (vaibhav.matalia@marwadieducation.edu.in)"],
+        "type": "Tech",
+        "id": "38"
+    },
+    {
+        "department": "FOS-MATHS",
+        "eventName": "Scientific Tambola",
+        "date": [
+            "13-03-24",
+            "13-03-24",
+            "13-03-24"
+        ],
+        "startTime": [
+            "1:00 PM",
+            "2:30 PM",
+            "3:45 PM"
+        ],
+        "endTime": [
+            "1:45 PM",
+            "3:15 PM",
+            "4:30 PM"
+        ],
+        "location": [
+            "MA 413"
+        ],
+        "coordinatorNames": ["Dr. Gautam Hathiwala"],
+        "type": "Tech",
+        "id": "39"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "Shark Tech",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "2:00 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5:00 PM",
+            "12:30 PM"
+        ],
+        "location": [
+            "MC 501"
+        ],
+        "coordinatorNames": ["PRANAVBHAI TANK - pranavbhai.tank@marwadieducation.edu.in - 9408726428",
+        "PARTH PARMAR - parth.parmar@marwadieducation.edu.in - 9974711464",
+        "CHIRAG BHALODIA - chiragkumar.bhalodia@marwadieducation.edu.in - 9638791514",
+        "MITUL TAKODARA - mitul.takodara@marwadieducation.edu.in - 8347228237"],
+        "type": "Tech",
+        "id": "40"
+    },
+    {
+        "department": "FOET-MECH",
+        "eventName": "Sky Burst",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5:00 PM",
+            "5:00 PM"
+        ],
+        "location": [
+            "A Bing front foyer"
+        ],
+        "coordinatorNames": ["PROF. KARTIK PIPALIA",
+        "PROF. NIKUNJ MASHRU"],
+        "type": "Tech",
+        "id": "41"
+    },
+    {
+        "department": "FOS-CHEM",
+        "eventName": "Snap Quiz Challenge",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "4:30 PM"
+        ],
+        "location": [
+            "MA 510"
+        ],
+        "coordinatorNames": ["Dr. Jayanti Makasana - jayantilal.makasana@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "42"
+    },
+    {
+        "department": "FOS-MICRO",
+        "eventName": "Streaking",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "10:30 AM"
+        ],
+        "endTime": [
+            "5:00 PM"
+        ],
+        "location": [
+            "MA 313",
+            "MA 314 B"
+        ],
+        "coordinatorNames": ["Dr. Aditya Saran"],
+        "type": "Tech",
+        "id": "43"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "Tech Battle",
+        "date": [
+            "14-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "9:30 AM",
+            "1:30 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "12:30 PM",
+            "3:30 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "MC 309"
+        ],
+        "coordinatorNames": ["Prof. Kishan Makadiya"],
+        "type": "Tech",
+        "id": "44"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "Tech Jumanji",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM",
+            "2:00 PM"
+        ],
+        "endTime": [
+            "5:00 PM",
+            "2:00 PM",
+            "3:00 PM"
+        ],
+        "location": [
+            "A Wing Back Foyer"
+        ],
+        "coordinatorNames": ["Prof. Jaydeep Ratanpara - 9924534393",
+        "Prof. Harsh Nagar - 9106572154",
+        "Prof. Paras Shingadiya - 9737098038"],
+        "type": "Tech",
+        "id": "45"
+    },
+    {
+        "department": "FOET-IT",
+        "eventName": "Tech Trek",
+        "date": [
+            "13-03-24",
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "1:00 PM",
+            "3:30 PM",
+            "1:00 PM"
+        ],
+        "endTime": [
+            "2:00 PM",
+            "4:30 PM",
+            "3:00 PM"
+        ],
+        "location": [
+            "MA 202",
+            "MA 203"
+        ],
+        "coordinatorNames": [
+            "Rituraj Jain, rituraj.jain@marwadieducation.edu.in, 9928631168",
+            "Kumar Parmar, kumar.parmar@marwadieducation.edu.in, 9727954856"],
+        "type": "Tech",
+        "id": "46"
+    },
+    {
+        "department": "FOET-IT",
+        "eventName": "Web Craft Fiesta",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "4:00 PM",
+            "4:00 PM"
+        ],
+        "location": [
+            "Lab 5",
+            "MC 220",
+            "Lab 8 MC 204"
+        ],
+        "coordinatorNames": ["mitesh.patel@marwadieducation.edu.in",
+        "tejas.chauhan@marwadieducation.edu.in",
+        "divya.kavathiya@marwadieducation.edu.in"],
+        "type": "Tech",
+        "id": "47"
+    },
+    {
+        "department": "FOET-MECH",
+        "eventName": "Adventure Riding Challenge on ATV",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM",
+            "12:30 PM"
+        ],
+        "location": [
+            "Outdoor, Near Box Cricket"
+        ],
+        "coordinatorNames": ["AKSHAT HIREN SONI 9427266144",
+        "DEEP DINESHBHAI BHATIA 7202000210",
+        "DEVDEEP VIMALBHAI CHAUHAN"],
+        "type": "NonTech",
+        "id": "48"
+    },
+    {
+        "department": "FOET-IT",
+        "eventName": "Anime Event",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "2:30 PM",
+            "4 PM"
+        ],
+        "endTime": [
+            "1:30 PM",
+            "3:30 PM",
+            "5 PM"
+        ],
+        "location": [
+            "Outdoor Group, Opp Main Building"
+        ],
+        "coordinatorNames": ["omprakash.suman@marwadieducation.edu.in",
+        "ankita.paul@marwadieducation.edu.in"],
+        "type": "NonTech",
+        "id": "49"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "Back to Bachpan",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "2 PM"
+        ],
+        "location": [
+            "Garden area, Opp Hostel A"
+        ],
+        "coordinatorNames": [".TanishaKakkad-92200103201",
+        ".Preya Sanghvi-92200103119",
+        ".Nauman Sama-92310103015",
+        "Tanmay Patel - 92200103131"],
+        "type": "NonTech",
+        "id": "50"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "BGMI Event",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "12:30 PM"
+        ],
+        "location": [
+            "MB 213"
+        ],
+        "coordinatorNames": [],
+        "type": "NonTech",
+        "id": "51"
+    },
+    {
+        "department": "FODS-MECH",
+        "eventName": "Bowl out (Cricket)",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Garden area, Opp Hostel A"
+        ],
+        "coordinatorNames": ["Prof. Mit Sheth",
+        "Prof. Anchit Kaneria"],
+        "type": "NonTech",
+        "id": "52"
+    },
+    {
+        "department": "FODS-MECH",
+        "eventName": "Box Cricket",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM",
+            "12:30 PM"
+        ],
+        "location": [
+            "Outdoor, Box Cricket"
+        ],
+        "coordinatorNames": ["Prof. Samarth Jobanputra",
+        "Prof. Dipen Dangi"],
+        "type": "NonTech",
+        "id": "53"
+    },
+    {
+        "department": "FOHS-FOP",
+        "eventName": "Chef's Corner",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "12:30 PM"
+        ],
+        "location": [
+            "MB 602",
+            "MB 603"
+        ],
+        "coordinatorNames": ["Dr. Rahul Chhatlani (PT) (91-9879878157)"],
+        "type": "NonTech",
+        "id": "54"
+    },
+    {
+        "department": "FOS-CHEM",
+        "eventName": "Cinemenia Quest",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "2 PM"
+        ],
+        "endTime": [
+            "4 PM"
+        ],
+        "location": [
+            "MA 511"
+        ],
+        "coordinatorNames": ["Hardvi Mehta (Mob. Num. 6352190203)",
+        "Jay Malaviya (Mob. Num. 9313875568)",
+        "Yash Bhensdadiya (Mob. Num. 9427807710)"],
+        "type": "NonTech",
+        "id": "55"
+    },
+    {
+        "department": "FODS-CE",
+        "eventName": "Counter strike 1.6",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM",
+            "12:30 PM"
+        ],
+        "location": [
+            "MA 502",
+            "MA 503"
+        ],
+        "coordinatorNames": ["Prof. Rushi Raval",
+        "Prof. Meghnesh Jayswal",
+        "Prof. Sumit Makwana"],
+        "type": "NonTech",
+        "id": "56"
+    },
+    {
+        "department": "FOS-PHYS",
+        "eventName": "Darts Championship",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "2 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "12 PM"
+        ],
+        "location": [
+            "Back Foyer A wing"
+        ],
+        "coordinatorNames": ["Meet Ghodasara - 92200221004",
+        "Bhautik Antala - 92200221009",
+        "Surojit Bera - 92200221006",
+        "Nimit Bhesaniya - 92200221008"],
+        "type": "NonTech",
+        "id": "57"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Fashion Show",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "7 PM onwards"
+        ],
+        "endTime": [""
+        ],
+        "location": [
+            "Ground"
+        ],
+        "coordinatorNames": ["Dr. Poonam Sharma",
+        "Prof. Paras Rughani",
+        "Dr. Meeta Joshi",
+        "Dr. Sagar Lalka",
+        "Dr. Rahul Trivedi"],
+        "type": "NonTech",
+        "id": "58"
+    },
+    {
+        "department": "Career Development Center",
+        "eventName": "Fun with Numbers",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "11:30 AM"
+        ],
+        "location": [
+            "FDP Room"
+        ],
+        "coordinatorNames": ["Bhavesh Kamalpara - 7990223066",
+        "Jignesh Merja - 9924881353"],
+        "type": "NonTech",
+        "id": "59"
+    },
+    {
+        "department": "FOET-ICT",
+        "eventName": "International Food Fiesta",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11 AM"
+        ],
+        "endTime": [
+            "2 PM"
+        ],
+        "location": [
+            "First floor A & B wing Corridor"
+        ],
+        "coordinatorNames": ["Vijay Dubey",
+        "Chaitali Shah"],
+        "type": "NonTech",
+        "id": "60"
+    },
+    {
+        "department": "FOET-CIVIL",
+        "eventName": "IPL Auction",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "12 PM",
+            "3 PM",
+            "9 AM"
+        ],
+        "endTime": [
+            "2 PM",
+            "4:30 PM",
+            "5 PM"
+        ],
+        "location": [
+            "MA601",
+            "MB601",
+            "MC601"
+        ],
+        "coordinatorNames": ["Prof. Ravi Modi"],
+        "type": "NonTech",
+        "id": "61"
+    },
+    {
+        "department": "FOET-CE-Bio",
+        "eventName": "Laugh Craft",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "2 PM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Seminar Hall"
+        ],
+        "coordinatorNames": ["Vishwa Tilva (92200194015)",
+        "Kashish Jethwa (92200194027)",
+        "Kashish Patel (92200194021)",
+        "Vaidehi Viradia (92200194025)",
+        "Jiya Shah (92301794001)",
+        "Jalak Sood (92301794002)"],
+        "type": "NonTech",
+        "id": "62"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "Lense and Motion Mixer",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "2 PM"
+        ],
+        "endTime": [
+            "12:30 PM",
+            "4 PM"
+        ],
+        "location": [
+            "MB414"
+        ],
+        "coordinatorNames": ["charmy.vora@marwadieducation.edu.in",
+        "khanjan.pandya@marwadieducation.edu.in",
+        "chintan.thakker@marwadieducation.edu.in"],
+        "type": "NonTech",
+        "id": "63"
+    },
+    {
+        "department": "FOET-ELE",
+        "eventName": "Movie Mania",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "11 AM",
+            "1 AM",
+            "3:30 PM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "4:30 PM",
+            "3:30 PM",
+            "5 PM",
+            "11 AM"
+        ],
+        "location": [
+            "MB104"
+        ],
+        "coordinatorNames": ["Prof. Dilip Moyal",
+        "Prof. Uvesh Sipai",
+        "Prof. Nirav Joshi",
+        "Dr. Nishant Kothari"],
+        "type": "NonTech",
+        "id": "64"
+    },
+    {
+        "department": "FODS-MATH, FODS-CHEM",
+        "eventName": "MU STEP UP (Dance Competition)",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Auditorium"
+        ],
+        "coordinatorNames": ["Prof. Khushbu Pandya (8980604167)",
+        "Prof. Divya Tirva (9624564724)",
+        "Mr. Razin Shaikh (7405860890)",
+        "Mr. Malav Maru (7874390419)"],
+        "type": "NonTech",
+        "id": "65"
+    },
+    {
+        "department": "FOS-Agri",
+        "eventName": "Mysterious minute",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Outdoor Group, Opp Main Building"
+        ],
+        "coordinatorNames": ["Dr. Harsh Kamani - harsh.kamani@marwadieducation.edu.in",
+        "Dr. Saryu Trivedi - saryu.trivedi@marwadieducation.edu.in"],
+        "type": "NonTech",
+        "id": "66"
+    },
+    {
+        "department": "FOA",
+        "eventName": "Open Mic",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "4:30 PM"
+        ],
+        "location": [
+            "B Wing back Foyer"
+        ],
+        "coordinatorNames": ["Prof. Aarzoo Haji",
+        "Prof. Mudra Dave",
+        "Prof. Niti Vachhani",
+        "Prof. Dhruvi Vora"],
+        "type": "NonTech",
+        "id": "67"
+    },
+    {
+        "department": "FOET-ICT",
+        "eventName": "Pictionary",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "12:30 PM"
+        ],
+        "location": [
+            "MA106",
+            "MA110"
+        ],
+        "coordinatorNames": ["chirag.visani@marwadieducation.edu.in"],
+        "type": "NonTech",
+        "id":"68"
+    },
+    {
+        "department": "FODS-CIVIL",
+        "eventName": "Quiz on Bharatiya Knowledge System",
+        "date": [
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "10 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "12 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "MB507",
+            "MB508"
+        ],
+        "coordinatorNames": ["chiragkumar.kathiriya@marwadieducation.edu.in",
+        "smit.kacha@marwadieducation.edu.in"],
+        "type": "NonTech",
+        "id": "69"
+    },
+    {
+        "department": "FOET-ICT",
+        "eventName": "Reels Mania",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "Full day/Anytime",
+            "Full day/Anytime",
+            "Full day/Anytime"
+        ],
+        "endTime": [
+            "Full day/Anytime",
+            "Full day/Anytime",
+            "Full day/Anytime"
+        ],
+        "location": [
+            "MA109, for submission",
+            "MA109, for submission",
+            "MA109, for submission"
+        ],
+        "coordinatorNames": ["chirag.visani@marwadieducation.edu.in"],
+        "type": "NonTech",
+        "id": "70"
+    },
+    {
+        "department": "FOCA",
+        "eventName": "SaptaRaga - The singing show",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Auditorium"
+        ],
+        "coordinatorNames": ["Prof Rushika - 8905549498",
+        "Prof Khyati Raiththa - 7990061877"],
+        "type": "NonTech",
+        "id": "71"
+    },
+    {
+        "department": "FOET-CE",
+        "eventName": "SQUID Game",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Outdoor Group, Opp Main Building"
+        ],
+        "coordinatorNames": ["Prof Kajalben Tanchak",
+        "Prof Twinkle Bhimani",
+        "Prof. Shilpa Singhal"],
+        "type": "NonTech",
+        "id": "72"
+    },
+    {
+        "department": "FOS-MATHS",
+        "eventName": "Sudoku",
+        "date": [
+            "14-03-24",
+            "14-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM",
+            "11 AM",
+            "12:30 PM"
+        ],
+        "endTime": [
+            "10:15 AM",
+            "11:45 AM",
+            "1:15 PM"
+        ],
+        "location": [
+            "MA413",
+            "MA413",
+            "MA413"
+        ],
+        "coordinatorNames": ["Dr Subhanshu Goyal"],
+        "type": "NonTech",
+        "id": "73"
+    },
+    {
+        "department": "FMS",
+        "eventName": "Treasure Hunt",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Outdoor, Reception Satyarthi"
+        ],
+        "coordinatorNames": ["Ms Prakruti A Joshipura SB:711-A"],
+        "type": "NonTech",
+        "id": "74"
+    },
+    {
+        "department": "Admin",
+        "eventName": "Valorant Showdown",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM",
+            "11:30 AM"
+        ],
+        "location": [
+            "SB102",
+            "SB103",
+            "SB104"
+        ],
+        "coordinatorNames": ["Ankur Saroj [7043437749] in",
+        "Nayan Joshi [9783886068] in",
+        "Kalavadia Vatsal [8733945301] in"],
+        "type": "NonTech",
+        "id": "75"
+    },
+    {
+        "department": "FOS-Agri",
+        "eventName": "Waste to Wonder",
+        "date": [
+            "14-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "1:30 PM"
+        ],
+        "location": [
+            "MA605"
+        ],
+        "coordinatorNames": ["Dr Archana Sharma ","Ms Bansi Nimawat"],
+        "type": "NonTech",
+        "id": "76"
+    },
+    {
+        "department": "FOS-Agri, International office",
+        "eventName": "Art Exhibition",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],  
+        "startTime": [
+            "9:30 AM",
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM",
+            "5 PM"
+        ],
+        "location": [
+            "Reception Area, Main Building"
+        ],
+        "coordinatorNames": ["Dr Archana Sharma, mobile no: 9925203019",
+        "Ms Chaitali Shah","Mr. Hiren Bhatt, Mo- 9924457794"],
+        "type": "Fun",
+        "id": "77"
+    },
+    {
+        "department": "FOET-CHEM",
+        "eventName": "Buzz wire",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "11:30 AM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "Outdoor, Near Workshop"
+        ],
+        "coordinatorNames": ["Mr. Hiren Bhatt, Mo- 9924457794"],
+        "type": "Fun",
+        "id": "78"
+    },
+    {
+        "department": "FOL",
+        "eventName": "Flash Challenges",
+        "date": [
+            "15-03-24"
+        ],
+        "startTime": [
+            "9:30 AM"
+        ],
+        "endTime": [
+            "12 PM"
+        ],
+        "location": [
+            "Reception, Satyarthi Building"
+        ],
+        "coordinatorNames": ["Mrs. Akanksha Ranjan","Ms. Sukhbir Kaur"],
+        "type": "Fun",
+        "id": "79"
+    },
+    {
+        "department": "FODS-ICT",
+        "eventName": "Hit the glass",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM"
+        ],
+        "location": [
+            "Garden area, Opp Hostel A"
+        ],
+        "coordinatorNames": ["vipul.hingu@marwadieducation.edu.in",
+        "vishal.solanki@marwadieducation.edu.in"],
+        "type": "Fun",
+        "id": "80"
+    },
+    {
+        "department": "Career Development Center",
+        "eventName": "Hit the Target",
+        "date": [
+            "13-03-24"
+        ],
+        "startTime": [
+            "3 PM"
+        ],
+        "endTime": [
+            "5 PM"
+        ],
+        "location": [
+            "FDP Room"
+        ],
+        "coordinatorNames": ["Mr. Nurali Chamadiya"],
+        "type": "Fun",
+        "id": "81"
+    },
+    {
+        "department": "FOHS-FOPH",
+        "eventName": "Snakes and Ladders",
+        "date": [
+            "13-03-24",
+            "14-03-24",
+            "15-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "9:30 AM",
+            "9:30 AM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM",
+            "12:30 PM"
+        ],
+        "location": [
+            "Open area, Corner Near Workshop"
+        ],
+        "coordinatorNames": ["Mr. Harshil Majethiya (harshil.majethiya@marwadieducation.edu.in)"],
+        "type": "Fun",
+        "id": "82"
+    },
+    {
+        "department": "Admin",
+        "eventName": "Tennis Ball",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],        "startTime": [
+            "2:30 PM",
+            "2 PM"
+        ],
+        "endTime": [
+            "5 PM",
+            "5 PM"
+        ],
+        "location": [
+            "Outdoor, Near workshop",
+            "Outdoor, Near workshop"
+        ],
+        "coordinatorNames": ["Mrs. Jigna Banderi 919687610269"],
+        "type": "Fun",
+        "id": "83"
+    },
+    {
+        "department": "Admin",
+        "eventName": "The Big Guess",
+        "date": [
+            "13-03-24",
+            "14-03-24"
+        ],
+        "startTime": [
+            "11:30 AM",
+            "10:30 AM"
+        ],
+        "endTime": [
+            "2:30 PM",
+            "1:30 PM"
+        ],
+        "location": [
+            "Outdoor, Near workshop",
+            "Outdoor, Near workshop"
+        ],
+        "coordinatorNames": ["Mrs. Jigna Bhanderi _ email id - jigna.bhanderi@marwadieducation.edu.in"],
+        "type": "Fun",
+        "id": "84"
+    }
+]

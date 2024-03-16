@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "department": "FMS",
+        "eventName": "Beer Game",
+        "date": ["15-03-24"],
+        "startTime": ["9:30 AM"],
+        "endTime": ["11:30 AM"],
+        "location": ["SB 710"],
+        "coordinatorNames": ["John Doe"],
+        "type": "Tech"
+    },
+    {
+        "id": "2",
+        "department": "Ict",
+        "eventName": "xyz",
+        "date": ["15-03-24"],
+        "startTime": ["9:30 PM"],
+        "endTime": ["11:50 PM"],
+        "location": ["SB 710"],
+        "coordinatorNames": ["John Doe"],
+        "type": "NonTech"
+    },
+    {
+        "id": "3",
+        "department": "Ict",
+        "eventName": "xyz",
+        "date": ["15-03-24"],
+        "startTime": ["9:30 AM"],
+        "endTime": ["11:30 AM"],
+        "location": ["SB 710"],
+        "coordinatorNames": ["John Doe"],
+        "type": "Fun"
+    }
+]
